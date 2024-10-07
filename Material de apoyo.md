@@ -19,3 +19,5 @@ FAST API Documentation:
 "Prolijidad" del codigo:
 
 + https://pandas.pydata.org/docs/development/contributing_docstring.html
+
+modificar
